@@ -1,0 +1,13 @@
+.innerSec5 {
+    width: 100%;
+}
+.videos {
+    width: 100%;
+}
+.videosSec{
+    display: flex;
+}
+#submit {
+    background-color: #e87e00;
+    color: white;
+}

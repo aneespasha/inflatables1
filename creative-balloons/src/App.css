@@ -1,0 +1,142 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 1385px;
+  margin: auto;
+  height: 100vh;
+}
+
+.section {
+  max-width: 1385px;
+}
+
+.innerSec2 {
+  width: 100%;
+}
+
+.innerSec3 {
+  width: 100%;
+}
+
+.twoColoumnsec3 {
+  width: 100%;
+}
+.jxtStart{
+  display: flex;
+  justify-content: center;
+}
+
+.innerSec5 {
+  width: 100%;
+  background-color: #F7F3F1;
+}
+button a{
+  color: white;
+  font-size: 18px;
+}
+
+footer {
+  max-width: 1385px;
+}
+
+.mainHeading {
+  text-align: center;
+  font-weight: 400;
+  font-size: 38px;
+  padding: 30px 20px 10px;
+}
+
+.heading {
+  text-align: center;
+  font-size: 24px;
+  padding: 10px;
+}
+
+.subHeading {
+  text-align: center;
+  font-weight: 400;
+  font-size: 30px;
+}
+
+.dark-bg {
+  color: white;
+  background-color: black;
+}
+
+.dark {
+  color: black;
+}
+
+.primary-bg {
+  background-color: #ea8407;
+  color: white;
+}
+
+.primary {
+  color: #ea8407;
+}
+
+.white-bg {
+  color: black;
+  background-color: white;
+}
+
+.white {
+  color: white;
+}
+
+.center {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.disBlock {
+  display: block;
+}
+#disBlock {
+  display: block;
+}
+
+.disFlex {
+  display: flex;
+}
+
+.para {
+  font-size: 18px;
+  line-height: 1.5em;
+  text-align: center;
+}
+
+button {
+  padding: 10px;
+  border: none;
+  color: white;
+  background-color: #ea8407;
+  font-size: 18px;
+  text-align: center;
+  margin: 10px;
+}
+
+.btnPan {
+  display: flex;
+  justify-content: center;
+}
+
+.btn2 {
+  color: #ea8407;
+  border: 1px solid #ea8407;
+  background-color: white;
+}
+
+.btn3 {
+  color: white;
+  border: 1px solid white;
+  background-color: #ea8407;
+}
+
+.txtStrt {
+  text-align: start;
+}

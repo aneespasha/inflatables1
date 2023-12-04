@@ -1,0 +1,50 @@
+
+.headerRight{
+    float: right;  
+}
+header{
+    display: flex;
+
+}
+
+.logo {
+    height: 50px;
+    width: 50px;
+    padding: 10px;
+}
+header ul {
+    padding: 0;
+  }
+  
+  header li {
+    display: inline;
+    margin: 10px;
+    
+  }
+  header a{
+    text-decoration: none;
+  }
+  header a {
+    padding: 10px 15px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: black;
+    background-color: white;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 5px #999;
+  }
+  
+  header a:hover {
+    background-color: #ea8407;
+    color: white;
+    
+    font-weight: 500;
+}
+  
+  header a:active {
+    background-color: #ea8407;
+    color: white;
+    transform: translateY(4px);
+  }

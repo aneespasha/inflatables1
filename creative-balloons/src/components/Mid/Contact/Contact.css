@@ -1,0 +1,44 @@
+.conSecRow {
+    border: 1px solid black;
+    padding: 10px 60px 60px 60px;
+}
+
+.conInnerSec {
+    width: 80%;
+}
+
+.col1 {
+    display: flex;
+    color: gray;
+    padding-right: 20px;
+
+}
+
+h4,
+h5,
+h3 {
+    margin: 0;
+}
+
+.callUs {
+    padding-top: 10px;
+}
+
+.conPerson {
+    padding: 10px 0px 10px 40px;
+}
+
+.conSecRow img {
+    padding-right: 10px;
+}
+
+.form button {
+    margin: 0px;
+}
+.form input {
+    width: 100%;
+    padding: 10px;
+    background-color: #dae8ff;
+    border: 2px solid #6082B6;
+    margin-top: 10px;
+}

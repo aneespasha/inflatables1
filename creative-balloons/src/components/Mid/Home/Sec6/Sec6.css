@@ -1,0 +1,60 @@
+.innerSec6 {
+    width: 100%;
+    background-color: #dc7700;
+    padding: 40px;
+}
+
+.innerSec6 .mainHeading {
+    background-color: #db9541;
+    margin: auto;
+    padding-top: 0px;
+    width: 80%;
+}
+
+.innerSec6 .contact {
+    background-color: #a85c01;
+    width: 80%;
+    margin: auto;
+
+}
+
+.innerSec6 .detail {
+    margin: auto;
+    padding: 10px 25px 10px;
+}
+.disFlex{
+    display: flex
+}
+
+.innerSec6 .detail input {
+    vertical-align: middle;
+    margin: 10px 10px 5px 0;
+    width: 100%;
+    padding: 40px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+}
+
+.innerSec6 .personDetail {
+    width: 100%;
+    display: flex;
+    padding:0px  15px;
+    border-radius: 20px;
+}
+.innerSec6 .personDetail label{
+    margin: 10px;
+    width: 100%;
+}
+
+.innerSec6 .personDetail input {
+    border: none;
+    width: 100%;
+    margin: 0px;
+    padding:20px;
+    border-radius: 20px;
+}
+
+.innerSec6 button {
+    width: 30%;
+}

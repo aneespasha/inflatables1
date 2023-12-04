@@ -1,0 +1,49 @@
+.innerSec2 {
+    width: 100%;
+    padding: 50px;
+    color: grey;
+}
+.innerSec2 .para {
+    line-height: 1.7em;
+}
+.txtPan{
+    padding-top: 10px;
+}
+.txtPan p {
+    margin: 0;
+}
+.innerSec2 a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+
+.innerSec2 ul {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 11em;
+    list-style: none;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.innerSec2 li {
+    display: flex;
+    width: calc(100% - 840px);
+}
+
+.innerSec2 img {
+    border-radius: 50px;
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    margin: 10px;
+}
+/* .txtPan h4 {
+    margin: 16px 0 14px 0;
+}
+.txtPan p {
+    margin: 0;
+} */

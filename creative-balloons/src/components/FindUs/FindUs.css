@@ -1,0 +1,52 @@
+.disFlex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.innerSec {
+    width: 100%;
+    padding: 50px;
+    text-align: center;
+    background-color:black;
+    color: white;
+}
+
+.fnt1 {
+    font-size: 38px;
+    font-weight: 400;
+}
+
+.fnt2 {
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.subHeading {
+    margin: 10px;
+}
+
+.FindUsDetails path {
+stroke: #e87e00;
+margin: 0px 5px;
+}
+.icons img, .icons path{
+border: 1px;
+fill: white;
+}
+
+.findUs img {
+    height: 20px;
+    width: 20px;
+    padding: 5px;
+}
+.FindUsDetails span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding:5px 15px;
+}
+
+.findUs .icons {
+    padding: 0px 10px;
+}

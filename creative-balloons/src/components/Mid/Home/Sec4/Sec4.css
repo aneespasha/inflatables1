@@ -1,0 +1,33 @@
+.innerSec4 .row {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.innerSec4 img {
+    width: 225px;
+
+}
+.innerSec4 .mainHeading {
+    font-size: 32px;
+    padding: 20px 0 ;
+}
+.innerSec4 .column {
+    padding: 10px 50px;
+}
+.innerSec4 a {
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+    font-size: 18px;
+    margin: 10px;
+}
+
+.innerSec4 .mainHeading {
+    text-align: center;
+}
+
+.column button {
+    margin: 20px;
+}
